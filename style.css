@@ -1,17 +1,29 @@
 @charset "UTF-8";
-
+body{
+  background-color: #DBE9EE;
+}
 h1{
-  
+  color: #C0D6DF;
+  text-align: center;
+}
+header{
+  background-color: #0A1438;
+  top: 0;
+  height:100px;
+  width:100%;
 }
 h2{
-  
+  color: #0A1438;
 }
-*text{
-  
+.text{
+  color: #0A1438;
 }
 #volunteer{
-
+  color: #0A1438;
 }
-div{
+.animals{
   
+}
+#jack{
+  flex: 1;  
 }
